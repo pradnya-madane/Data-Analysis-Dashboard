@@ -7,20 +7,21 @@ The goal of this project is to create an interactive dashboard that will help an
 -<a href="https://github.com/pradnya-madane">Dataset</a>
 
 ## Question 
-How will you handle missing data?<br>
-How do you plan to calculate the total sales?<br>
-How will you use slicers or dropdown filters?<br>
-How will you include a filter to show sales performance over time (e.g., by region, city, or sales executive)?<br>
-Can you identify trends where certain regions or sales executives?<br>
-How will you design a user-friendly dashboard?<br>
+•	How will you handle missing data?
+•	How do you plan to calculate the total sales?
+•	How will you use slicers or dropdown filters?
+•	How will you include a filter to show sales performance over time (e.g., by region, city, or sales executive)?
+•	Can you identify trends where certain regions or sales executives?
+•	How will you design a user-friendly dashboard?
 
 ## Process
-Step 1: Collect and Organize Data<br>
-Step 2: Clean and Prepare Data<br>
-Step 3: Create Pivot Tables<br>
-Step 4: Build an Interactive Dashboard<br>
-Step 5: Format and Finalize<br>
-Step 6: Test and Share<br>
+•	Step 1: Collect and Organize Data
+•	Step 2: Clean and Prepare Data
+•	Step 3: Create Pivot Tables
+•	Step 4: Build an Interactive Dashboard
+•	Step 5: Format and Finalize
+•	Step 6: Test and Share
+
 
 ## Dashboard
 <img width="619" alt="Screenshot" src="https://github.com/user-attachments/assets/dffa43d3-69fe-4434-bfa7-c7cffe3c7957" />
