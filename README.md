@@ -37,11 +37,13 @@ The goal of this project is to create an interactive dashboard that will help an
 <img width="619" alt="Screenshot" src="https://github.com/user-attachments/assets/dffa43d3-69fe-4434-bfa7-c7cffe3c7957" />
 
 ## Project Insight 
-•  Performance Insights:
+•  Performance Insights
 •	Identify regions meeting or exceeding targets.
 •	Highlight underperforming regions or sales executives.
+
 •  Trend Analysis:
 •	Monitor growth/decline over time by region or executive.
+
 •  Focus Areas:
 •	Identify products or categories driving sales.
 •	Pinpoint bottlenecks in specific regions.
