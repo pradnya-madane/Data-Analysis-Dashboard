@@ -21,10 +21,15 @@ The goal of this project is to create an interactive dashboard that will help an
 
 ## Process
 •	Step 1: Collect and Organize Data
+
 •	Step 2: Clean and Prepare Data
+
 •	Step 3: Create Pivot Tables
+
 •	Step 4: Build an Interactive Dashboard
+
 •	Step 5: Format and Finalize
+
 •	Step 6: Test and Share
 
 
