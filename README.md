@@ -8,10 +8,15 @@ The goal of this project is to create an interactive dashboard that will help an
 
 ## Question 
 •	How will you handle missing data?
+
 •	How do you plan to calculate the total sales?
+
 •	How will you use slicers or dropdown filters?
+
 •	How will you include a filter to show sales performance over time (e.g., by region, city, or sales executive)?
+
 •	Can you identify trends where certain regions or sales executives?
+
 •	How will you design a user-friendly dashboard?
 
 ## Process
