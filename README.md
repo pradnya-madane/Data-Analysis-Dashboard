@@ -20,7 +20,9 @@ Step 4: Build an Interactive Dashboard<br>
 Step 5: Format and Finalize<br>
 Step 6: Test and Share<br>
 ## Dashboard
- <a "https://github.com/pradnya-madane/Data-Analysis-Dashboard/blob/main/Screenshot.PNG">Screenshot</a>
+
+ <img width="619" alt="Screenshot" src="https://github.com/user-attachments/assets/dffa43d3-69fe-4434-bfa7-c7cffe3c7957" />
+
  
 
 
