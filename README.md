@@ -19,6 +19,7 @@ Step 3: Create Pivot Tables
 Step 4: Build an Interactive Dashboard
 Step 5: Format and Finalize
 Step 6: Test and Share
+https://github.com/pradnya-madane/Data-Analysis-Dashboard/blob/main/Screenshot.PNG
 
 
 
