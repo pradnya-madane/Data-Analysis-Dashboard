@@ -13,13 +13,13 @@ How will you design a user-friendly dashboard?<br>
 
 -dashboard interaction to <a="https://github.com/pradnya-madane/Data-Analysis-Dashboard/commit/651dd381d2674ff4e32a829bbcc048b235684076#diff-0fba1500948ee755af0c4a5a6563262a1ffbf11d5bd93fdc0d650eab293ccf54"> View Dashboard</a>
 ## Process
-Step 1: Collect and Organize Data
-Step 2: Clean and Prepare Data
-Step 3: Create Pivot Tables
-Step 4: Build an Interactive Dashboard
-Step 5: Format and Finalize
-Step 6: Test and Share
-https://github.com/pradnya-madane/Data-Analysis-Dashboard/blob/main/Screenshot.PNG
+Step 1: Collect and Organize Data<br>
+Step 2: Clean and Prepare Data<br>
+Step 3: Create Pivot Tables<br>
+Step 4: Build an Interactive Dashboard<br>
+Step 5: Format and Finalize<br>
+Step 6: Test and Share<br>
+
 
 
 
